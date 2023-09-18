@@ -86,7 +86,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 
 
-### 4. Congratulations! You have a website!
+<div class="gs-section-meganCL"> 4. Congratulations! You have a website!</div>
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
@@ -229,3 +229,14 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+
+<style>
+
+.gs-section-meganCL{ 
+     color: black }
+
+.gs-section-meganFT{
+     font-size: 30px;
+}
+
+</style>
