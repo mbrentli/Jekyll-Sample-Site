@@ -67,6 +67,18 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 ![Installation steps](assets/img/install-steps.gif)
 
 <div markdown="1"><font size=6>1. Fork this project</font></div>
+<div>
+   
+     {% raw %}
+{{  
+
+  <font size=6>1. Fork this project</font>
+
+}} 
+{% endraw %}
+
+</div>
+
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
