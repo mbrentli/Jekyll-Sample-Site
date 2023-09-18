@@ -233,7 +233,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-meganCL{ 
-     color: black }
+     color: #f70776 }
 
 .gs-section-meganFT{
      font-size: 30px;
