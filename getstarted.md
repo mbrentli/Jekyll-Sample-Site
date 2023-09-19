@@ -66,7 +66,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div markdown="1"><font size=6>1. Fork this project</font></div>
+
 <div>
    
 {% raw %}
@@ -80,7 +80,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 
 
-<div class="gs-section-01" markdown="1"><strong>2.Rename the project to 'yourusername.github.io'</strong></div>
+
 <div class="gs-section-01">
 {% raw %}
   <strong>2.Rename the project to 'yourusername.github.io' updatingggggggggggggggg </strong>
@@ -90,8 +90,6 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
 
-
-<div markdown="1" style="background:#cca8e9">3. Customize your website settings</div>
 
 <div style="background:#cca8e9">
 {% raw %}
@@ -104,12 +102,13 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 
 
-<div class="gs-section-meganCL"> 4. Congratulations! You have a website!</div>
+
 <div class="gs-section-meganCL">
 {% raw %}
    4. Congratulations! You have a website!  updatingggggggggggggggg
 {% endraw %}
 </div>
+
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
