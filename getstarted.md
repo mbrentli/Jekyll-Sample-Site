@@ -54,7 +54,7 @@ Developing and maintaining Beautiful Jekyll takes a lot of time and effort - tha
 
 [Become a sponsor for Beautiful Jekyll and unlock special rewards\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)
 
-# <u>Build your website in 3 steps</u>
+# <p style="text decoration:underline;">Build your website in 3 steps</p>
 
 There's a very easy way to use this theme, and there's a hard way. For most people (including myself!), the easy route is recommended. If you're an advanced user and want to tinker with the hard way (using ruby gems), then [skip the easy way](https://github.com/daattali/beautiful-jekyll#the-hard-way-using-ruby-gems) if you know what you're doing.
 
