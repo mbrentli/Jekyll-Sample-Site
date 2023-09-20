@@ -8,7 +8,6 @@ layout: default
 
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
-
 <table id="ryan-v-ryan">
 
 <thead>
@@ -77,6 +76,7 @@ layout: default
 </tr> 
 
 </table>
+
 
 
 <br>
